@@ -1,0 +1,13 @@
+/* #region header  */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 20px;
+  background-color: var(--color-dark);
+}
+
+.header__logo {
+  display: inline-flex;
+}
+/* #endregion  */
